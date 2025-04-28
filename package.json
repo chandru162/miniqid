@@ -1,0 +1,19 @@
+{
+  "name": "miniqid",
+  "version": "1.0.4",
+  "description": "A lightweight and customizable unique ID generator for Node.js, supporting prefixes, length, and character set options.",
+  "main": "index.js",
+  "keywords": [
+    "id",
+    "uid",
+    "unique-id",
+    "miniqid-id",
+    "generator",
+    "random-id",
+    "miniqid",
+    "id-generator",
+    "unique-id-generator"  
+  ],
+  "author": "Chandru",
+  "license": "MIT"
+}
